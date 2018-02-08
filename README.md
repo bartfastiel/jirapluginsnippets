@@ -1,0 +1,2 @@
+# jirapluginsnippets
+Jira plugin snippets
